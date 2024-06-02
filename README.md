@@ -1,4 +1,6 @@
-this is a merge conflict
+this is merge conflicts
+merge conflicts
+merge conflicts
 merge conflicts
 merge conflicts
 merge conflicts
