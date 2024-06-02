@@ -1,6 +1,7 @@
 Anubhav
 Kumar 
 Tiwary
-Anubhav
-Kumar
-Tiwary
+is 
+an 
+tech 
+enthusiast
